@@ -2,3 +2,4 @@ ls 		-> lista arquivos
 cd 		-> move entre diretórios
 pwd 	-> mostra diretório de trabalho
 rm -rf 	-> remove pastas e subpastas do diretório especificado sem pedir confirmação
+cat 	-> exibe conteúdo do arquivo
