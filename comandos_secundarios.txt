@@ -1,1 +1,1 @@
-arquivo com comandos secundarios de git
+arquivo com comandos secundarios e informações adicionais para git
