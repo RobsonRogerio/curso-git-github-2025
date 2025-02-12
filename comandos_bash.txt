@@ -4,3 +4,5 @@ pwd 	-> mostra diretório de trabalho
 rm 		-> remove arquivo ou diretório
 rm -rf 	-> remove de forma forçada pastas e subpastas do diretório especificado sem pedir confirmação
 cat 	-> exibe conteúdo do arquivo
+
+texto teste
