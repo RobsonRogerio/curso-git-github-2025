@@ -2,3 +2,7 @@ arquivo com comandos secundarios e informações adicionais para git
 
 - primeiro comando
 - segundo comando
+
+# comandos genéricos
+
+- comandos estranhos
