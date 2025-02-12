@@ -6,3 +6,5 @@ arquivo com comandos secundarios e informações adicionais para git
 # comandos genéricos
 
 - comandos estranhos
+
+- mais comandos
