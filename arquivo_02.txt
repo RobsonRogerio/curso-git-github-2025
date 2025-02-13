@@ -1,0 +1,3 @@
+arquivo tosco
+
+mais uma linha no arquivo tosco
