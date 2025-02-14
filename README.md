@@ -8,6 +8,10 @@ Confira tudo no YouTube:
 
 [Curso Git 2025](http://youtube.com/@teomewhy)
 
+Além do YouTube, acompanhe o site e a agenda para ficar por dentro
+
+[teomewhy.org](https://teomewhy.org/schedule)
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
