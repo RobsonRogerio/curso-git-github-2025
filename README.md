@@ -4,6 +4,10 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Além disso, vamos trabalhar com GitFlow e Visual Studio Code ao final do curso.
 
+Confira tudo no YouTube:
+
+[Curso Git 2025](http://youtube.com/@teomewhy)
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
